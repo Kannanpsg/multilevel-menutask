@@ -9,14 +9,14 @@ const menuData = [
     },
 
     {
-      name: "Left dropdown⯆",
+      name: "Left dropdown",
       children: [
         {
           name: "Any page",
           url: "/page/menu-4-1"
         },
         {
-          name: "Second Level⯆",
+          name: "Second Level",
           children: [
             {
               name: "Another Page",
@@ -57,7 +57,7 @@ const menuData = [
 
     
     {
-      name: "Mega Menu⯆",
+      name: "Mega Menu",
       children: [
         {
           name: "Mega Menu",
@@ -72,7 +72,7 @@ const menuData = [
     },
 
     {
-      name: "Right dropdown⯆",
+      name: "Right dropdown",
       children: [
         {
           name: "Any-Page",
@@ -94,10 +94,10 @@ const menuData = [
               url: "/page/menu-4-3-2"
             },
             {
-              name: "Third level⯆",
+              name: "Third level",
               children: [
                 {
-                  name: "Any-page⯆",
+                  name: "Any-page",
                   children: [
                     {
                       name: "Any-page",
@@ -106,7 +106,7 @@ const menuData = [
                   ]
                 },
                 {
-                  name: "Another-page⯆",
+                  name: "Another-page",
                   url: "/page/menu-4-3-3-2"
                 }
               ]
